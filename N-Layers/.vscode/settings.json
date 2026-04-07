@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "JavaMaven/lib/bson-5.1.2.jar",
+        "JavaMaven/lib/json-20250517.jar",
+        "JavaMaven/lib/mongodb-driver-core-5.1.2.jar",
+        "JavaMaven/lib/mongodb-driver-sync-5.1.2.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
